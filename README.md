@@ -22,3 +22,4 @@ gradle wrapper
   * https://qiita.com/hatimiti/items/a127311d739c9d3e0045
 * spring boot
   * https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-gradle-installation
+  * https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-first-application-code
