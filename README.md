@@ -23,3 +23,5 @@ gradle wrapper
 * spring boot
   * https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-gradle-installation
   * https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-first-application-code
+* jpa
+  * http://javatechnology.net/spring/spring-boot-mysql-connect/
